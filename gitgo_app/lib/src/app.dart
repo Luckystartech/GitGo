@@ -19,3 +19,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+//https://github.com/Luckystartech/GitGo/blob/main/images/screenshot_android.png
+//https://github.com/Luckystartech/GitGo/blob/images/screenshot_android.png

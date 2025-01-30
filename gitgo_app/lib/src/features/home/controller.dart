@@ -8,7 +8,7 @@ class UrlController {
 
     try {
       if (await canLaunchUrl(uri)) {
-        await launchUrl(uri, mode: LaunchMode.inAppWebView);
+        await launchUrl(uri, mode: LaunchMode.inAppBrowserView);
       } else {
         throw Exception("Url cannot be launched");
       }

@@ -14,8 +14,8 @@ GitGo is a mobile application developed using Flutter, designed to help users go
 
 ## Screenshots
 
-- ![screenshot 1](../images/screenshot_ios.png)
-- ![screenshot 2](../images/screenshot_android.png)
+- ![screenshot 1](images/screenshot_ios.png)
+- ![screenshot 2](images/screenshot_android.png)
 
 ## Installation
 
